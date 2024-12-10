@@ -15,7 +15,7 @@ The app consists of three main components:
 These components work together to provide actionable insights through an interactive dashboard, helping optimize taxi fleet distribution 
 and improve service efficiency.
 
-Project Folder Structure:
+Project Folder Structure(CODE/):
 
     data/: Contains raw, cleaned, and processed datasets.
     models/: Stores pre-trained models and encoders.
