@@ -1,5 +1,3 @@
-# NYC-Taxi-Data-Hotspot-Analysis-Visualization
-
 NYC TAXI DATA ANALYSIS
 ======================
 
