@@ -50,8 +50,3 @@ INSTALLATION AND EXECUTION
       python -m streamlit run NYC_Taxi_Data_Analysis.py
 
    e) Open the web browser and navigate to the url that appears after starting the app.
-
-
-DEMO VIDEO
-----------
-URL: https://youtu.be/0t-izF56qgQ
