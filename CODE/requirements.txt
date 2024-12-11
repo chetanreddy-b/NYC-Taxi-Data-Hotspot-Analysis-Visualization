@@ -1,0 +1,16 @@
+dash
+Flask
+Flask_Cors
+folium
+geopandas
+joblib
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+Shapely
+statsmodels
+streamlit
+streamlit_folium
+xgboost
